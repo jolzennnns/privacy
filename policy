@@ -1,0 +1,108 @@
+1. Information We Collect
+We collect information to provide, improve, and secure the App. This includes:
+
+1.1 Information You Provide Directly
+
+Account Data: Name, email address, Shopify store URL, and billing details during registration.
+
+Store Data: Information about your Shopify store, including products, orders, customers, inventory, and settings.
+
+Communications: Records of support requests, feedback, or inquiries.
+
+1.2 Data Collected Automatically
+
+Usage Data: IP address, browser type, device information, pages visited, and interactions with the App.
+
+Cookies and Tracking Technologies: We use cookies, web beacons, and similar tools (see Section 8).
+
+Shopify API Data: Data accessed via Shopify’s APIs, such as store themes, customer lists, or transaction details.
+
+1.3 Third-Party Services
+
+Payment Processors: Stripe, PayPal, or others may collect payment information (we do not store credit card details).
+
+Analytics Tools: Google Analytics, Hotjar, or similar services gather aggregated usage statistics.
+
+2. How We Use Your Information
+We use your data for the following purposes:
+
+To Operate the App: Deliver features, process transactions, and provide customer support.
+
+To Improve Services: Analyze usage trends, troubleshoot issues, and develop new functionalities.
+
+To Communicate: Send service-related emails (e.g., updates, security alerts) and marketing content (with consent).
+
+For Legal Compliance: Meet regulatory obligations, enforce terms of service, or respond to lawful requests.
+
+3. How We Share Your Information
+We do not sell your data. Sharing occurs only as follows:
+
+Service Providers: Third parties assisting with hosting (e.g., AWS), payments, analytics, or customer support.
+
+Legal Requirements: To comply with laws, court orders, or government requests.
+
+Business Transfers: In mergers, acquisitions, or asset sales, user data may be transferred.
+
+Aggregated/Anonymized Data: Shared for marketing or industry analysis (e.g., “60% of users prefer Feature X”).
+
+4. Data Retention
+We retain your data:
+
+For as long as your account is active.
+
+Up to [30/60/90] days after account deletion, unless legally required to retain longer (e.g., tax records).
+
+Anonymized data may be kept indefinitely for analytics.
+
+5. Data Security
+We implement safeguards including:
+
+Encryption (SSL/TLS) for data in transit and at rest.
+
+Regular security audits and access controls.
+
+Compliance with PCI DSS for payment processing.
+Note: No system is 100% secure. Report vulnerabilities to [security@email.com].
+
+6. Your Rights & Choices
+Depending on your jurisdiction (e.g., GDPR, CCPA), you may:
+
+Access/Correct Data: Request a copy of your data or update inaccuracies.
+
+Delete Data: Ask us to erase your information (exceptions apply).
+
+Opt-Out of Marketing: Unsubscribe via email links or account settings.
+
+Portability: Request a machine-readable copy of your data.
+
+CCPA Rights: California residents can opt out of data “sales” (if applicable) via [Link/Email].
+
+To exercise rights, contact us at [privacy@email.com]. We may verify your identity before responding.
+
+7. International Data Transfers
+Data may be transferred to and processed in countries outside your residence (e.g., U.S., EU). We use GDPR-approved safeguards (e.g., Standard Contractual Clauses) for transfers.
+
+8. Cookies & Tracking Technologies
+Necessary Cookies: Essential for App functionality (e.g., login sessions).
+
+Analytics Cookies: Track usage patterns (opt-out via browser settings).
+
+Advertising Cookies: Used for retargeting (if applicable).
+
+9. Children’s Privacy
+The App is not intended for users under 16 (or 13 under U.S. law). We do not knowingly collect data from minors.
+
+10. Changes to This Policy
+We may update this policy periodically. Material changes will be notified via email or in-App alerts. Continued use constitutes acceptance.
+
+11. Contact Us
+For questions, requests, or complaints:
+
+Email: [privacy@email.com]
+
+Address: [Your Physical Address]
+
+Data Protection Officer (GDPR): [DPO@email.com]
+
+For unresolved issues, contact your local data protection authority.
+
